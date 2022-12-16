@@ -17,5 +17,5 @@ yarn start
 #### Build
 
 ```
-yarn build
+yarn run build
 ```
